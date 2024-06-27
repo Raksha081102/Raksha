@@ -37,7 +37,9 @@ Java
 
 
 Project Details:
-Worked with Hospital management system project done with 6 month of time period
+Title: Hospital management system 
+Front End: 
+Back End: Php
 
 
 Work History:
