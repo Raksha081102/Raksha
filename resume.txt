@@ -14,20 +14,27 @@ Hi! I'am Raksha and I'm happy to have you as a Friend in my
 web technologies Courses. 
 
 Education:
+
+College - Jyoti Nivas College Autonomous, Post Graduate Center, Bangalore
+2023 - 2025
+Masters of Computer Science
+Pursuing
+
 DEGREE
-2022 Bachelor of Science(BSC)
 College: Gopalan College of commerce 
+2019 - 2022 
+Bachelor of Science(BSC)
 Percentage : 70% 
 
 PUC
-2019 12th (PCMB)
 College: Narayana PU College 
- Percentage : 51% 
+2018 - 2019 (PCMB)
+Percentage : 51% 
 
 SSLC
-2018 10th passed with CGPA 8.8 
-Narayana e techno school
-
+College: Narayana e techno school
+2018 
+CGPA 8.8 
 
 Computer knowledge: 
 Computer basic 
@@ -35,12 +42,11 @@ MS office
 C programming 
 Java
 
+Hobbies:
+Listening to Music, Shettle , Playing Carrom.
 
 Project Details:
 Title: Hospital management system 
-Front End: 
-Back End: Php
-
 
 Work History:
 Tutor
