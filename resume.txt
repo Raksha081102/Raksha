@@ -28,12 +28,12 @@ Percentage : 70%
 
 PUC
 College: Narayana PU College 
-2018 - 2019 (PCMB)
+2017 - 2019 (PCMB)
 Percentage : 51% 
 
 SSLC
 College: Narayana e techno school
-2018 
+2017
 CGPA 8.8 
 
 Computer knowledge: 
@@ -43,7 +43,7 @@ C programming
 Java
 
 Hobbies:
-Listening to Music, Shettle , Playing Carrom.
+Listening to Music, Shettle , Playing Throw ball .
 
 Project Details:
 Title: Hospital management system 
