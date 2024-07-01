@@ -33,12 +33,12 @@ College: Narayana PU College
 Percentage : 51% 
 
 SSLC
-College: Narayana e techno school
+School: Narayana e techno school
 2017
 CGPA 8.8 
 
 Computer knowledge: 
-Computer basic 
+Computer basic
 MS office 
 C programming 
 Java
@@ -50,18 +50,10 @@ Project Details:
 Title: Hospital management system 
 
 Work History:
-Tutor
-1 year
-
-Testimonials:
-I love Nirma way of Teaching  
-It helped me to get a knowledge.
+Tutor - 1 year
 
 Languages known:
-English
-Kannada
-Telugu
-Hindi
+English, Kannada, Telugu and Hindi
 
 Declaration:
 I assure that all the above mention details are true of my knowledge.
